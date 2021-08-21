@@ -1,4 +1,4 @@
-Olá! Eu sou o Welliton 🤓🤙
+Eaeee! Eu sou o Welliton 🤓🤙
 
 - 💻 Trabalhando com Front-end
 - 💡 Tecnologia: ReactJS
