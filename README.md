@@ -15,8 +15,6 @@ Olá! Eu sou o Welliton 🤓🤙
   <img align="center" alt="Welliton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!--   <img align="right" alt="Welliton" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> -->
 </div>
-  <img align="right" alt="developer" src="https://media.tenor.com/images/dae7cfce2b5f6a79fa7fc208816be042/tenor.gif">
-</div>
   
   ##
   
