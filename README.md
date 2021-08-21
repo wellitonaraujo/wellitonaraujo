@@ -1,4 +1,4 @@
-Olá! Eu sou o Welliton Araujo
+Olá! Eu sou o Welliton Araujo 🤙
 
 - 🔭 Trabalhando com front-end
 - 🌱 Tecnologia ReactJS
