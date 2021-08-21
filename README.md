@@ -1,7 +1,7 @@
 Olá! Eu sou o Welliton 🤓🤙
 
-- 🔭 Trabalhando com front-end
-- 🌱 Tecnologia ReactJS
+- 💻 Trabalhando com Front-end
+- 💡 Tecnologia: ReactJS
  <div>
   <a href="https://github.com/wellitonaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellitonaraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
