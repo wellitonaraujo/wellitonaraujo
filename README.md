@@ -1,6 +1,6 @@
 Eaeee! Eu sou o Welliton 🤓🤙
 
-- 💻 Trabalhando com React Native
+- 💻 Desenvolvedor de Aplicativos
 - 💡 Tecnologia: React Native / ReactJS
  <div>
   <a href="https://github.com/wellitonaraujo">
