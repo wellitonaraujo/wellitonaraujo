@@ -1,7 +1,7 @@
-Eaeee! Eu sou o Welliton 🤓🤙
+Hi! I'm Welliton 🤓🤙
 
-- 💻 Desenvolvedor de Aplicativos
-- 💡 Tecnologia: React Native / ReactJS
+- 💻 Mobile Developer
+- 💡 Technology.: React Native / Swift
  <div>
   <a href="https://github.com/wellitonaraujo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wellitonaraujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
