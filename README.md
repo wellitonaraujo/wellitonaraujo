@@ -1,4 +1,4 @@
-<h1 style="color: #FC8F00 !important;">Hi 👋, I'm Welliton Araujo!</h1>
+<h1 style="text-align: center; color: #FC8F00;">Hi 👋, I'm Welliton Araujo!</h1>
 <h3 align="center">A passionate mobile developer from Brazil!</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CauanDZN&style=for-the-badge&label=Profile%20views&color=313b4a"></img></p>
