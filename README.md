@@ -1,4 +1,4 @@
-<h1 style="text-align: center; color: #FC8F00;">Hi 👋, I'm Welliton Araujo!</h1>
+<h1 align="center" color="#FC8F00">Hi 👋, I'm Welliton Araujo!</h1>
 <h3 align="center">A passionate mobile developer from Brazil!</h3>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=CauanDZN&style=for-the-badge&label=Profile%20views&color=313b4a"></img></p>
@@ -18,7 +18,7 @@
    <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
    <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Bash" height="50" /></a>  
    <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
-  <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
+   <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> 
    <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
   
